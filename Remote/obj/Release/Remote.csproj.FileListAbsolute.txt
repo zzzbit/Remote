@@ -1,0 +1,13 @@
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\bin\Release\Remote.exe.config
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\bin\Release\Remote.exe
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\bin\Release\Remote.pdb
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\bin\Release\Newtonsoft.Json.dll
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\bin\Release\Newtonsoft.Json.xml
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.csprojResolveAssemblyReference.cache
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.Main.resources
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.Login.resources
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.Properties.Resources.resources
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.Register.resources
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.csproj.GenerateResource.Cache
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.exe
+C:\Users\zhangzhizhi\documents\visual studio 2013\Projects\Remote\Remote\obj\Release\Remote.pdb
